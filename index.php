@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        echo('Rama cliente2 esta es la rama master del cliente a la cual se le haran los merege de los procesos creados.');
         ?>
     </body>
 </html>
